@@ -1,4 +1,4 @@
-# InzoRemover
+# InzoRemover  WORK IN PROGRESS
 
 Automatically removes the Inzo remote access trojan (WIP)
 
