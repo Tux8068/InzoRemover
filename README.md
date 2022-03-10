@@ -8,3 +8,8 @@ Automatically removes the Inzo remote access trojan (WIP)
 <p align="center">
   <img src="https://i.imgur.com/RfgEmPq.png">
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/Rb0ebYa.png">
+</p>
+
